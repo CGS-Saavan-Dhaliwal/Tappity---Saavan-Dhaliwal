@@ -53,6 +53,8 @@ class ViewController: UIViewController {
                     button.center.x = button.superview!.bounds.width / 2
                     button.center.y = button.superview!.bounds.height / 2
                     
+                    print("stop being acoustic")
+                    
                 }
             }} else {
             score += 1
